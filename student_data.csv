@@ -1,0 +1,16 @@
+Student_ID,Name,Age,Gender,Math_Score,Science_Score,English_Score,Attendance_Percentage,Study_Hours_per_Week,Final_Result
+1,Aarav,17,Male,85,78,88,92,15,Pass
+2,Diya,16,Female,90,92,91,95,18,Pass
+3,Rohan,17,Male,60,65,58,80,8,Fail
+4,Ananya,16,Female,88,85,87,93,16,Pass
+5,Vikram,17,Male,55,50,52,70,6,Fail
+6,Ishita,16,Female,92,89,94,96,20,Pass
+7,Karan,17,Male,70,72,68,85,10,Pass
+8,Meera,16,Female,95,94,96,98,22,Pass
+9,Arjun,17,Male,40,45,38,60,5,Fail
+10,Priya,16,Female,85,88,84,90,14,Pass
+11,Raj,17,Male,65,60,62,82,9,Pass
+12,Sneha,16,Female,78,80,79,88,12,Pass
+13,Amit,17,Male,50,55,53,75,7,Fail
+14,Kavya,16,Female,91,90,92,97,19,Pass
+15,Manish,17,Male,68,70,66,84,11,Pass
