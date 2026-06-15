@@ -6,3 +6,7 @@ movies.append(mov1)
 movies.append(mov2)
 movies.append(mov3)
 print(movies)
+def print_len(l):
+    length = len(l)
+    print(length)
+print_len(movies)
